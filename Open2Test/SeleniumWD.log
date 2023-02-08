@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-02-08T23:16:09.468056200Z</date>
+  <millis>1675898169468</millis>
+  <nanos>56200</nanos>
+  <sequence>0</sequence>
+  <logger>SeleniumWD.SeleniumWD</logger>
+  <level>CONFIG</level>
+  <class>SeleniumWD.SeleniumWD</class>
+  <method>LoadLog</method>
+  <thread>1</thread>
+  <message>Configuration done.</message>
+</record>
+<record>
+  <date>2023-02-08T23:16:09.490060900Z</date>
+  <millis>1675898169490</millis>
+  <nanos>60900</nanos>
+  <sequence>1</sequence>
+  <logger>SeleniumWD.SeleniumWD</logger>
+  <level>FINE</level>
+  <class>SeleniumWD.SeleniumWD</class>
+  <method>LoadLog</method>
+  <thread>1</thread>
+  <message>Finer logged</message>
+</record>
+</log>
