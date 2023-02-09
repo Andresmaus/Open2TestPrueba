@@ -7,3 +7,5 @@ _
 /Open2Test/src/test/java/SeleniumWD/Setting.java,a\6\a60c2b5a80f793f1eb8a4904be2e879a1258b7a0
 b
 2Open2Test/src/test/java/SeleniumWD/SeleniumWD.java,1\1\11dfbf5f147b0196f2fdce7820272b792eeea6ad
+9
+	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
